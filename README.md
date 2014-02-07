@@ -1,12 +1,17 @@
 ## Technologie Internetowe, 2014
 
-- [ ] [GitHub Desktop](http://windows.github.com/)
-- [ ] [Sublime Text Editor](http://www.sublimetext.com/)
+Użyteczne narzędzia:
+
+- [GitHub Desktop](http://windows.github.com/)
+- [Sublime Text Editor](http://www.sublimetext.com/)
+
+
+### Rozkład zajęć
 
 1\. Git:
 
-- Zakładamy konto na GitHub
-- Tworzymy pierwsze repozytorium na GitHub
+- Zakładamy konto na serwerze GitHub.
+- Tworzymy pierwsze repozytorium na GitHub.
 - [Mastering Markdown](http://guides.github.com/overviews/mastering-markdown/)
   - Dodajemy obrazki
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
@@ -19,7 +24,7 @@ Lektura:
 2\. HTML & CSS:
 
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
-   wprowadzenie do HTML i CSS
+  wprowadzenie do HTML i CSS
 
 3\. JavaScript:
 
