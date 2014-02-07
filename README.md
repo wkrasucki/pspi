@@ -5,6 +5,7 @@ Użyteczne narzędzia:
 - [GitHub Desktop](http://windows.github.com/)
 - [Sublime Text Editor](http://www.sublimetext.com/)
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
+  (klucz publiczny, klucz prywatny; generowanie gluczy)
 
 
 ### Rozkład zajęć
