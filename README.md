@@ -4,6 +4,7 @@ Użyteczne narzędzia:
 
 - [GitHub Desktop](http://windows.github.com/)
 - [Sublime Text Editor](http://www.sublimetext.com/)
+- [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
 
 
 ### Rozkład zajęć
@@ -30,3 +31,7 @@ Lektura:
 
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+4\. Moja strona WWW na serwerze GitHub i strony repozytoriów.
+
+5\. [Meteor](https://www.meteor.com/).
