@@ -17,7 +17,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetow
   [Markdown](http://daringfireball.net/projects/markdown/syntax)
   oraz prezentacja przygotowana za pomocą narzędzia
   [Reveal.js](http://lab.hakim.se/reveal-js/);
-  zob. [Slides](http://slid.es/).
+  zob. [Slides](http://slid.es/)
 * 4 – strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
 * 5 – strony do repozytorium przygotowane za pomocą narzędzia
