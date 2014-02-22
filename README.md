@@ -48,10 +48,9 @@ Dodatkowa lektura:
 2\. HTML & CSS:
 
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
+- [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS
-- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
-  wprowadzenie do HTML i CSS
 
 3\. JavaScript:
 
