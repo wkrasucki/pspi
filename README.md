@@ -1,6 +1,4 @@
-## Technologie Internetowe, 2014
-
-![UG](ug.geojson)
+## [Technologie Internetowe](ug.geojson), 2014
 
 Użyteczne narzędzia:
 
@@ -8,6 +6,7 @@ Użyteczne narzędzia:
 - [Sublime Text Editor](http://www.sublimetext.com/)
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
+
 
 ### Zaliczenie
 
@@ -17,7 +16,7 @@ Użyteczne narzędzia:
 * 4 – strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
 * 5 – strony do repozytorium przygotowane za pomocą narzędzia
-  [Jekyll](http://jekyllrb.com/),
+  [Jekyll](http://jekyllrb.com/). JTZ –
   [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages)
 
 
@@ -39,8 +38,9 @@ Dodatkowa lektura:
 
 2\. HTML & CSS:
 
+- [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
-  wprowadzenie do HTML i CSS
+  wprowadzenie do HTML i CSS
 
 3\. JavaScript:
 
