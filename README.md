@@ -15,7 +15,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetow
 
 * 3 – repozytorium ze stronami wpisanymi w notacji
   [Markdown](http://daringfireball.net/projects/markdown/syntax)
-  lub [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText)
+  oraz prezentacja przygotowana za pomocą narzędzia
+  [Reveal.js](https://github.com/hakimel/reveal.js)
 * 4 – strona do swojego konta na serwerze GitHub, np.
   http://wbzyl.github.io/
 * 5 – strony do repozytorium przygotowane za pomocą narzędzia
@@ -46,6 +47,8 @@ Dodatkowa lektura:
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS
+- [Reveal.js](https://github.com/hakimel/reveal.js) –
+  a framework for easily creating beautiful presentations using HTML.
 
 3\. JavaScript:
 
