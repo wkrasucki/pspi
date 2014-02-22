@@ -9,6 +9,17 @@ Użyteczne narzędzia:
 - [Secure Shell](http://en.wikipedia.org/wiki/Secure_Shell)
   (klucz publiczny, klucz prywatny; generowanie kluczy)
 
+### Zaliczenie
+
+* 3 – repozytorium ze stronami wpisanymi w notacji
+  [Markdown](http://daringfireball.net/projects/markdown/syntax)
+  lub [reStructuredText](http://en.wikipedia.org/wiki/ReStructuredText)
+* 4 – strona do swojego konta na serwerze GitHub, np.
+  http://wbzyl.github.io/
+* 5 – strony do repozytorium przygotowane za pomocą narzędzia
+  [Jekyll](http://jekyllrb.com/),
+  [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages)
+
 
 ### Rozkład zajęć
 
