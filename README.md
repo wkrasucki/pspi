@@ -36,6 +36,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetow
   - Dodajemy obrazki
   - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 - Moja strona WWW na serwerze GitHub i strony repozytoriów.
+- [Reveal.js](https://github.com/hakimel/reveal.js) –
+  a framework for easily creating beautiful presentations using HTML.
 
 Dodatkowa lektura:
 
@@ -46,9 +48,9 @@ Dodatkowa lektura:
 
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
+  wprowadzenie do HTML i CSS
+- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS
-- [Reveal.js](https://github.com/hakimel/reveal.js) –
-  a framework for easily creating beautiful presentations using HTML.
 
 3\. JavaScript:
 
