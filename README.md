@@ -1,6 +1,9 @@
 ## [Technologie Internetowe](ug.geojson), 2014
 
-Użyteczne narzędzia:
+Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
+
+
+### Użyteczne narzędzia
 
 - [GitHub Desktop](http://windows.github.com/)
 - [Sublime Text Editor](http://www.sublimetext.com/)
