@@ -1,6 +1,6 @@
 ## Technologie Internetowe, 2014
 
-![UG](https://embed.github.com/view/geojson/h5c3j/pspi/master/ug.geojson)
+![UG](ug.geojson)
 
 Użyteczne narzędzia:
 
