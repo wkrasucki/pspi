@@ -1,4 +1,4 @@
-## [Technologie Internetowe](ug.geojson), 2014
+## [Technologie Internetowe](ug.geojson), 2014 II semestr, I rok
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
 
