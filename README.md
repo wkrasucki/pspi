@@ -15,7 +15,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetow
 ### Zaliczenie
 
 * 3 – repozytorium ze stronami wpisanymi w notacji
-  [Markdown](http://daringfireball.net/projects/markdown/syntax)
+  [Markdown](http://daringfireball.net/projects/markdown/syntax),
+  na przykład [Papers We Love](https://github.com/papers-we-love/papers-we-love),
   oraz prezentacja przygotowana za pomocą narzędzia
   [Reveal.js](http://lab.hakim.se/reveal-js/);
   zob. [Slides](http://slid.es/)
