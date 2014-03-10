@@ -1,4 +1,4 @@
-## [Technologie Internetowe](ug.geojson)  
+## [Technologie Internetowe](ug.geojson)
 ###semestr letni, rok akad. 2013/2014
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
@@ -64,3 +64,5 @@ Dodatkowa lektura:
 4\. [Meteor](https://www.meteor.com/):
 
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+- [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
+- [Discover Meteor](http://book.discovermeteor.com/) – książka
