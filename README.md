@@ -63,6 +63,7 @@ Dodatkowa lektura:
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
 
 4\. [Meteor](https://www.meteor.com/):
 
