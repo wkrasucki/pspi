@@ -49,6 +49,9 @@ Dodatkowa lektura:
 
 2\. HTML & CSS:
 
+- [Rob Dodson](http://robdodson.me/blog/):
+  * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
+  * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
