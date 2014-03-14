@@ -1,7 +1,29 @@
 ##  [Technologie Internetowe](ug.geojson)
 ### semestr letni, rok akad. 2013/2014
 
-Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
+Strona z linkami do projektów na zaliczenie
+z przedmiotu „Techniki Internetowe”:
+
+1. Dagmara Bruska
+1. Łukasz Bujakowski
+1. Emilia Ćwiek
+1. Monika Dulska
+1. Ryszard Gatz
+1. Henryka Glińska
+1. Danuta Hasiak
+1. Marta Kaczmarek
+1. Barbara Kortus
+1. Wojciech Krasucki
+1. Liliana Król
+1. Anna Król
+1. Bartosz Lewczuk
+1. Tomasz Piasecki
+1. Paweł Rogoziński
+1. Andrzej Sroka
+1. Iwona Szałkowska
+1. Magdalena Tyde
+1. Maciej Wódkowski
+
 
 ### Użyteczne narzędzia
 
