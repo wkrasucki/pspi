@@ -9,7 +9,7 @@ z przedmiotu „Techniki Internetowe”:
 1. Emilia Ćwiek
 1. Monika Dulska
 1. Ryszard Gatz
-1. Henryka Glińska
+1. Henryka Glińska-Łobacz
 1. Danuta Hasiak
 1. Marta Kaczmarek
 1. Barbara Kortus
