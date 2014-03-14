@@ -1,10 +1,9 @@
-## [Technologie Internetowe](ug.geojson)
-###semestr letni, rok akad. 2013/2014
+##  [Technologie Internetowe](ug.geojson)
+### semestr letni, rok akad. 2013/2014
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”.
 
-
-## Użyteczne narzędzia
+### Użyteczne narzędzia
 
 - [GitHub Desktop](http://windows.github.com/)
 - [Sublime Text Editor](http://www.sublimetext.com/)
