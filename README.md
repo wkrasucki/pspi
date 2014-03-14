@@ -48,13 +48,26 @@ Dodatkowa lektura:
 
 2\. HTML & CSS:
 
+- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
+  wprowadzenie do HTML i CSS
+
+HTML5:
+
+- [HTML5 element list](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list) –
+  [MDN](https://developer.mozilla.org/pl/) (Mozilla Developer Network)
+- [HTML5 Element Index](http://html5doctor.com/element-index/)
+- [HTML4 Element Index](http://www.w3.org/TR/html4/index/elements.html)
+
+Web Components:
+
 - [Rob Dodson](http://robdodson.me/blog/):
   * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+
+Zrób to sam:
+
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
-- [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
-  wprowadzenie do HTML i CSS
 
 3\. JavaScript:
 
