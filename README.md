@@ -21,7 +21,7 @@ z przedmiotu „Techniki Internetowe”:
 1. Paweł Rogoziński
 1. Andrzej Sroka
 1. Iwona Szałkowska
-1. [Magdalena Tyde](https://github.com/mtyde/Samouczek "Proszę o sprawdzenie")
+1. [Magdalena Tyde](https://github.com/mtyde/Samouczek), [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne).
 1. Maciej Wódkowski
 
 
