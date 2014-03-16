@@ -85,6 +85,8 @@ Web Components:
 - [Rob Dodson](http://robdodson.me/blog/):
   * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
+- [Custom Elements](http://customelements.io/) –
+  a Web Components Gallery for modern web applications
 
 CSS:
 
