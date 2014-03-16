@@ -14,7 +14,7 @@ z przedmiotu „Techniki Internetowe”:
 1. Marta Kaczmarek
 1. Barbara Kortus
 1. Wojciech Krasucki
-1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA), [PROGRAM PROFILAKTYCZNY PARASOL](http://slid.es/lkrol2/parasol)
+1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA), [Program profilaktyczny](http://slid.es/lkrol2/parasol)
 1. Anna Król
 1. Bartosz Lewczuk
 1. Tomasz Piasecki
