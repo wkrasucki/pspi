@@ -86,6 +86,11 @@ Web Components:
   * [Exploring HTML Imports](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 
+CSS:
+
+- [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+
 Różne rzeczy:
 
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
