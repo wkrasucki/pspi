@@ -98,7 +98,7 @@ Różne rzeczy:
 - [CSSDeck](http://cssdeck.com/) – HTML5, CSS3, JS Demos, Creations and Experiments
 - [JS Bin](http://jsbin.com/) – collaborative JavaScript Debugging
 - [CodePen](http://codepen.io/) – front end developer playground & code editor in the browser
-= [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
+- [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
 
 
 3\. JavaScript:
