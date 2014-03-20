@@ -79,6 +79,7 @@ HTML5:
   [MDN](https://developer.mozilla.org/pl/) (Mozilla Developer Network)
 - [HTML5 Element Index](http://html5doctor.com/element-index/)
 - [HTML4 Element Index](http://www.w3.org/TR/html4/index/elements.html)
+- [To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
 
 Web Components:
 
