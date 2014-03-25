@@ -93,6 +93,8 @@ CSS:
 
 - [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+- [CSS Diner](http://flukeout.github.io/) –
+  where we feast on CSS Selectors!
 
 Różne rzeczy:
 
