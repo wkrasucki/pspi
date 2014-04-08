@@ -20,7 +20,9 @@ z przedmiotu „Techniki Internetowe”:
 1. Tomasz Piasecki
 1. Paweł Rogoziński
 1. Andrzej Sroka
-1. Iwona Szałkowska
+1.[Iwona Szałkowska] (https://github.com/iszalkowska/NOWY-DOM-inspiracje),(https://github.com/iszalkowska/WSPOMNIENIA...ocali--od-zapomnienia), [PREZENTACJA KRETA](http://slid.es/iszalkowska/moje-woj), [PREZENTACJA CHORWACJA](http://slid.es/iszalkowska/chorwacja)
+
+
 1. [Magdalena Tyde](https://github.com/mtyde/Samouczek), [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne) [Strona Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output)
 1. Maciej Wódkowski
 
