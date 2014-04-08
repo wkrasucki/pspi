@@ -1,29 +1,33 @@
 ##  [Technologie Internetowe](ug.geojson)
 ### Rok akademicki 2013/2014
 
-Strona z linkami do projektów na zaliczenie
-z przedmiotu „Techniki Internetowe”:
+Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 1. Dagmara Bruska
 1. Łukasz Bujakowski
 1. Emilia Ćwiek
 1. Monika Dulska
 1. Ryszard Gatz
-1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md), [Promocja szkoły](http://slid.es/henia2064/deck)
-1. [Danuta Hasiak] (https://github.com/danuskah/turystyka "7 Cudów Świata"), [Prezentacja] (http://slid.es/danutahasiak/prezentacja)
+1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
+   [Promocja szkoły](http://slid.es/henia2064/deck)
+1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
+   [Prezentacja](http://slid.es/danutahasiak/prezentacja)
 1. Marta Kaczmarek
 1. Barbara Kortus
 1. Wojciech Krasucki
-1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA), [Program profilaktyczny](http://slid.es/lkrol2/parasol)
+1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
+   [Program profilaktyczny](http://slid.es/lkrol2/parasol)
 1. Anna Król
 1. Bartosz Lewczuk
 1. Tomasz Piasecki
 1. Paweł Rogoziński
 1. Andrzej Sroka
-1.[Iwona Szałkowska] (https://github.com/iszalkowska/NOWY-DOM-inspiracje),(https://github.com/iszalkowska/WSPOMNIENIA...ocali--od-zapomnienia), [PREZENTACJA KRETA](http://slid.es/iszalkowska/moje-woj), [PREZENTACJA CHORWACJA](http://slid.es/iszalkowska/chorwacja)
-
-
-1. [Magdalena Tyde](https://github.com/mtyde/Samouczek), [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne) [Strona Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output)
+1. [Iwona Szałkowska](https://github.com/iszalkowska/NOWY-DOM-inspiracje).
+   [Kreta](http://slid.es/iszalkowska/moje-woj),
+   [Chorwacja](http://slid.es/iszalkowska/chorwacja)
+1. [Magdalena Tyde](https://github.com/mtyde/Samouczek).
+   [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
+   [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output)
 1. Maciej Wódkowski
 
 
