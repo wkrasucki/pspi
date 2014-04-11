@@ -17,6 +17,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Wojciech Krasucki
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
    [Program profilaktyczny](http://slid.es/lkrol2/parasol)
+[Moja stona internetowa](http://lkrol2.github.io/)
 1. Anna Król
 1. Bartosz Lewczuk
 1. Tomasz Piasecki
