@@ -27,6 +27,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Moja strona internetowa](http://iszalkowska.github.io)
    [Kreta](http://slid.es/iszalkowska/moje-woj),
    [Chorwacja](http://slid.es/iszalkowska/chorwacja)
+   [Strona o mnie](http://iszalkowska.github.io)
 1. [Magdalena Tyde](https://github.com/mtyde/Samouczek).
    [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
    [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output)
