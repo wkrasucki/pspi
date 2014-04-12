@@ -56,7 +56,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 
 ### Rozkład zajęć
 
-1\. Git:
+Git:
 
 - Zakładamy konto na serwerze GitHub
 - Tworzymy pierwsze repozytorium na GitHub
@@ -74,10 +74,12 @@ Dodatkowa lektura:
 - [GitHub Guides](https://guides.github.com/)
 - [Got 15 minutes and want to learn Git?](http://try.github.io/levels/1/challenges/1)
 
-2\. HTML & CSS:
+
+#### HTML & CSS
 
 - [Thinkful HTML](https://github.com/h5c3j/thinkful-html) –
   wprowadzenie do HTML i CSS
+- [Learn CSS Layout](http://learnlayout.com/)
 
 HTML5:
 
@@ -87,6 +89,13 @@ HTML5:
 - [HTML4 Element Index](http://www.w3.org/TR/html4/index/elements.html)
 - [To close or not to close](http://www.colorglare.com/2014/02/03/to-close-or-not-to-close.html)
 
+CSS:
+
+- [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
+- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+- [CSS Diner](http://flukeout.github.io/) –
+  where we feast on CSS Selectors!
+
 Web Components:
 
 - [Rob Dodson](http://robdodson.me/blog/):
@@ -94,13 +103,6 @@ Web Components:
   * [A Guide to Web Components](http://css-tricks.com/modular-future-web-components/)
 - [Custom Elements](http://customelements.io/) –
   a Web Components Gallery for modern web applications
-
-CSS:
-
-- [Cascading Style Sheets](http://www.w3.org/Style/CSS/)
-- [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
-- [CSS Diner](http://flukeout.github.io/) –
-  where we feast on CSS Selectors!
 
 Różne rzeczy:
 
@@ -110,15 +112,20 @@ Różne rzeczy:
 - [Adobe Kuler](https://kuler.adobe.com/create/color-wheel/) – color wheel and schemes
 
 
-3\. JavaScript:
+#### JavaScript
 
 - Marijn Haverbeke, [Eloquent JavaScript](http://eloquentjavascript.net/) –
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+- [Node.js](http://nodejs.org/):
 
-4\. [Meteor](https://www.meteor.com/):
+```js
+alias node="env NODE_NO_READLINE=1 rlwrap node"
+```
+
+[Meteor](https://www.meteor.com/):
 
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
