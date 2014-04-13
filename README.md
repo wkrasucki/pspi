@@ -11,7 +11,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
    [Promocja szkoły](http://slid.es/henia2064/deck)
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
-   [Prezentacja](http://slid.es/danutahasiak/prezentacja)
+   [Prezentacja](http://slid.es/danutahasiak/prezentacja)[Moja strona internetowa](http://danuskah.github.io)
 1. Marta Kaczmarek
 1. Barbara Kortus
 1. Wojciech Krasucki
