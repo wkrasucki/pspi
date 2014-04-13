@@ -13,7 +13,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
    [Prezentacja](http://slid.es/danutahasiak/prezentacja)
 1. Marta Kaczmarek
-1. Barbara Kortus
+1. [Barbara Kortus](https://github.com/Bacorka3/Barwa)
 1. Wojciech Krasucki
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
    [Program profilaktyczny](http://slid.es/lkrol2/parasol)
