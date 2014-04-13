@@ -3,36 +3,37 @@
 
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
-1. Dagmara Bruska
-1. Łukasz Bujakowski
-1. Emilia Ćwiek
-1. Monika Dulska
-1. Ryszard Gatz
+1. Dagmara Bruska.
+1. Łukasz Bujakowski.
+1. Emilia Ćwiek.
+1. Monika Dulska.
+1. Ryszard Gatz.
 1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
-   [Promocja szkoły](http://slid.es/henia2064/deck)
+   [Promocja szkoły](http://slid.es/henia2064/deck).
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
-   [Prezentacja](http://slid.es/danutahasiak/prezentacja)[Moja strona internetowa](http://danuskah.github.io)
-1. Marta Kaczmarek
-1. [Barbara Kortus](https://github.com/Bacorka3/Barwa)
-1. Wojciech Krasucki
+   [Moja strona internetowa](http://danuskah.github.io),
+   [Prezentacja](http://slid.es/danutahasiak/prezentacja).
+1. Marta Kaczmarek.
+1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
+1. Wojciech Krasucki.
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
    [Program profilaktyczny](http://slid.es/lkrol2/parasol)
    [Moja stona internetowa](http://lkrol2.github.io/)
-1. [Anna Król-Lewczuk](https://github.com/krulica/kruliczynotes)
-   [Wyspy Owcze] (http://slides.com/krulica/wyspy-owcze)
-   [Moja strona internetowa] (http://krulica.github.io/)
-1. Tomasz Piasecki
-1. Paweł Rogoziński
-1. Andrzej Sroka
+1. [Anna Król-Lewczuk](https://github.com/krulica/kruliczynotes).
+   [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze),
+   [Moja strona internetowa](http://krulica.github.io/).
+1. Bartosz Lewczuk.
+1. Tomasz Piasecki.
+1. Paweł Rogoziński.
+1. Andrzej Sroka.
 1. [Iwona Szałkowska](https://github.com/iszalkowska/NOWY-DOM-inspiracje).
-   [Moja strona internetowa](http://iszalkowska.github.io)
+   [Moja strona internetowa](http://iszalkowska.github.io),
    [Kreta](http://slid.es/iszalkowska/moje-woj),
-   [Chorwacja](http://slid.es/iszalkowska/chorwacja),
-   [Moja strona internetowa](http://iszalkowska.github.io)
+   [Chorwacja](http://slid.es/iszalkowska/chorwacja).
 1. [Magdalena Tyde](https://github.com/mtyde/Samouczek).
    [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
-   [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output)
-1. Maciej Wódkowski
+   [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output).
+1. Maciej Wódkowski.
 
 
 ### Użyteczne narzędzia
