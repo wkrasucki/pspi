@@ -17,8 +17,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
 1. Wojciech Krasucki.
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
-   [Program profilaktyczny](http://slid.es/lkrol2/parasol)
-   [Moja stona internetowa](http://lkrol2.github.io/)
+   [Moja stona internetowa](http://lkrol2.github.io/),
+   [Program profilaktyczny](http://slid.es/lkrol2/parasol).
 1. [Anna Król-Lewczuk](https://github.com/krulica/kruliczynotes).
    [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze),
    [Moja strona internetowa](http://krulica.github.io/).
