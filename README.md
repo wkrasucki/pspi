@@ -20,8 +20,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Moja stona internetowa](http://lkrol2.github.io/),
    [Program profilaktyczny](http://slid.es/lkrol2/parasol).
 1. [Anna Król-Lewczuk](https://github.com/krulica/kruliczynotes).
-   [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze),
-   [Moja strona internetowa](http://krulica.github.io/).
+   [Moja strona internetowa](http://krulica.github.io/),
+   [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze).
 1. Bartosz Lewczuk.
 1. Tomasz Piasecki.
 1. Paweł Rogoziński.
