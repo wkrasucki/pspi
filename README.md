@@ -132,6 +132,7 @@ alias node="env NODE_NO_READLINE=1 rlwrap node"
 
 [Meteor](https://www.meteor.com/):
 
+- [A JavaScript Primer For Meteor](https://www.discovermeteor.com/blog/javascript-for-meteor/)
 - [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
 - [Discover Meteor](http://book.discovermeteor.com/) – książka
