@@ -137,3 +137,4 @@ alias node="env NODE_NO_READLINE=1 rlwrap node"
 - [A Guide to Meteor Templates & Data Contexts](https://www.discovermeteor.com/blog/a-guide-to-meteor-templates-data-contexts/)
 - [Explore Meteor with EventedMind](https://www.eventedmind.com/) – screencasty
 - [Discover Meteor](http://book.discovermeteor.com/) – książka
+  * [polskie tłumaczenie](http://pl.discovermeteor.com/)
