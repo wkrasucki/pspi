@@ -7,7 +7,9 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Łukasz Bujakowski.
 1. Emilia Ćwiek.
 1. Monika Dulska.
-1. Ryszard Gatz.
+1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe)
+   [Prezentacja](http://slides.com/luty/national-basket/)
+   [Moja strona internetowa](http://literonim.github.io/)
 1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
    [Promocja szkoły](http://slid.es/henia2064/deck).
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
