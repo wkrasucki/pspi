@@ -122,7 +122,10 @@ Różne rzeczy:
 
 #### JavaScript
 
-- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+Firefox extensions:
+
+- [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/):
+  * [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
 - [FireQuery](http://firequery.binaryage.com/)
 
 [Node.js](http://nodejs.org/):
@@ -135,7 +138,7 @@ alias node="env NODE_NO_READLINE=1 rlwrap node"
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - John Resig.
   [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
 
