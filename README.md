@@ -122,16 +122,25 @@ Różne rzeczy:
 
 #### JavaScript
 
+- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
+- [Node.js](http://nodejs.org/):
+
+```sh
+alias node="env NODE_NO_READLINE=1 rlwrap node"
+```
+
 - Marijn Haverbeke, [Eloquent JavaScript](http://eloquentjavascript.net/) –
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [MDN & JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
-- [Node.js](http://nodejs.org/):
+  - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- John Resig.
+  [Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/) – funkcje w JavaScript
 
-```js
-alias node="env NODE_NO_READLINE=1 rlwrap node"
-```
+JQuery:
+
+- [The Basics of jQuery](http://andreehansson.se/the-basics-of-jquery/)
+
 
 [Meteor](https://www.meteor.com/):
 
