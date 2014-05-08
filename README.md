@@ -123,7 +123,9 @@ Różne rzeczy:
 #### JavaScript
 
 - [Firebug Command Line API](https://getfirebug.com/wiki/index.php/Command_Line_API)
-- [Node.js](http://nodejs.org/):
+- [FireQuery](http://firequery.binaryage.com/)
+
+[Node.js](http://nodejs.org/):
 
 ```sh
 alias node="env NODE_NO_READLINE=1 rlwrap node"
