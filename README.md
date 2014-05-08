@@ -35,7 +35,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Magdalena Tyde](https://github.com/mtyde/Samouczek).
    [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
    [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output).
-1. Maciej Wódkowski.
+1. [Maciej Wódkowski](https://slides.com/maxkaz/najgorsze-skrzyzowania-w-trojmiescie)
 
 
 ### Użyteczne narzędzia
