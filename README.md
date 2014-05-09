@@ -5,11 +5,11 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 
 1. Dagmara Bruska.
 1. [Łukasz Bujakowski.](https://github.com/lbujakowski/Nauka)
-   [Prezentacja](http://slides.com/lbujakowski/prezentacja)
+   [Prezentacja](http://slides.com/lbujakowski/prezentacja).
 1. Emilia Ćwiek.
 1. Monika Dulska.
-1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe)
-   [Prezentacja](http://slides.com/luty/national-basket/)
+1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe).
+   [Prezentacja](http://slides.com/luty/national-basket/),
    [Moja strona internetowa](http://literonim.github.io/)
 1. [Henryka Glińska-Łobacz](https://github.com/henia2064/favourite/blob/master/README.md).
    [Promocja szkoły](http://slid.es/henia2064/deck).
@@ -28,7 +28,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Bartosz Lewczuk.
 1. Tomasz Piasecki.
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
-   [Prezentacja](http://slides.com/pawelr/gdansk)
+   [Gdańsk](http://slides.com/pawelr/gdansk).
 1. Andrzej Sroka.
 1. [Iwona Szałkowska](https://github.com/iszalkowska/NOWY-DOM-inspiracje).
    [Moja strona internetowa](http://iszalkowska.github.io),
@@ -38,7 +38,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
    [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output).
 1. [Maciej Wódkowski](https://github.com/maxkaz/Informatyka-w-szkole-podstawowej).
-   [Prezentacja:Najgorsze skrzyżowania w 3mieście](https://slides.com/maxkaz/najgorsze-skrzyzowania-w-trojmiescie)
+   [Najgorsze skrzyżowania w 3mieście](https://slides.com/maxkaz/najgorsze-skrzyzowania-w-trojmiescie).
 
 
 ### Użyteczne narzędzia
@@ -136,6 +136,7 @@ Firefox extensions:
 alias node="env NODE_NO_READLINE=1 rlwrap node"
 ```
 
+- [reply.it](http://repl.it/languages/JavaScript)
 - Marijn Haverbeke, [Eloquent JavaScript](http://eloquentjavascript.net/) –
   A Modern Introduction to Programming
 - [A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
