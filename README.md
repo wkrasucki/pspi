@@ -148,7 +148,7 @@ alias node="env NODE_NO_READLINE=1 rlwrap node"
 JQuery:
 
 - [The Basics of jQuery](http://andreehansson.se/the-basics-of-jquery/)
-
+- [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 [Meteor](https://www.meteor.com/):
 
