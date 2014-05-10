@@ -18,6 +18,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Prezentacja](http://slid.es/danutahasiak/prezentacja).
 1. Marta Kaczmarek.
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
+   [Reklama.Technik Cyfrowych Procesów Graficznych](http://slides.com/bacorka3/technik-cyfrowych-procesow-graficznych)
 1. Wojciech Krasucki.
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
    [Moja stona internetowa](http://lkrol2.github.io/),
