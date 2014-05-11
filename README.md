@@ -18,6 +18,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [7 cudów świata](http://slid.es/danutahasiak/prezentacja).
 1. Marta Kaczmarek.
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
+[Moja strona internetowa](http://bacorka3.github.io/Samouczek/)
    [Reklama.Technik Cyfrowych Procesów Graficznych](http://slides.com/bacorka3/technik-cyfrowych-procesow-graficznych)
 1. [Wojciech Krasucki](https://github.com/wkrasucki/readme.md)
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
