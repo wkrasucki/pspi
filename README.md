@@ -15,7 +15,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Promocja szkoły](http://slid.es/henia2064/deck).
 1. [Danuta Hasiak](https://github.com/danuskah/turystyka "7 Cudów Świata").
    [Moja strona internetowa](http://danuskah.github.io),
-   [Prezentacja](http://slid.es/danutahasiak/prezentacja).
+   [7 cudów świata](http://slid.es/danutahasiak/prezentacja).
 1. Marta Kaczmarek.
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
    [Reklama.Technik Cyfrowych Procesów Graficznych](http://slides.com/bacorka3/technik-cyfrowych-procesow-graficznych)
