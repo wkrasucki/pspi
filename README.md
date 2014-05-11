@@ -27,7 +27,8 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Moja strona internetowa](http://krulica.github.io/),
    [Wyspy Owcze](http://slides.com/krulica/wyspy-owcze).
 1. Bartosz Lewczuk.
-1. Tomasz Piasecki.
+1. [Tomasz Piasecki.](https://github.com/piasecki/wszechswiat/blob/master/wielkosc_i_struktura.md)
+   [Prezentacja](http://slides.com/tomaszpiasecki/rajskie-miejsca-na-ziemi)
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
    [Gdańsk](http://slides.com/pawelr/gdansk).
 1. Andrzej Sroka.
