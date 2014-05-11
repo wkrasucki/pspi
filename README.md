@@ -19,7 +19,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. Marta Kaczmarek.
 1. [Barbara Kortus](https://github.com/Bacorka3/Barwa).
    [Reklama.Technik Cyfrowych Procesów Graficznych](http://slides.com/bacorka3/technik-cyfrowych-procesow-graficznych)
-1. Wojciech Krasucki.
+1. [Wojciech Krasucki](https://github.com/wkrasucki/20140222).
 1. [Liliana Król](https://github.com/lkrol2/PEDAGOGIZACJA-DLA-RODZICA).
    [Moja stona internetowa](http://lkrol2.github.io/),
    [Program profilaktyczny](http://slid.es/lkrol2/parasol).
