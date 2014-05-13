@@ -4,9 +4,9 @@
 Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 1. Dagmara Bruska.
-1. [Łukasz Bujakowski.](https://github.com/lbujakowski/Nauka)
-   [Prezentacja](http://slides.com/lbujakowski/prezentacja).
-   [Moja strona internetowa](http://jsbin.com/zajezayi/1/edit)
+1. [Łukasz Bujakowski](https://github.com/lbujakowski/Nauka).
+   [Prezentacja](http://slides.com/lbujakowski/prezentacja),
+   [Moja Strona Internetowa](http://jsbin.com/pezapuvu/1/edit).
 1. Emilia Ćwiek.
 1. Monika Dulska.
 1. [Ryszard Gatz.](https://github.com/literonim/Technologie.internetowe).
