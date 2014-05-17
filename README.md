@@ -43,6 +43,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output).
 1. [Maciej Wódkowski](https://github.com/maxkaz/Informatyka-w-szkole-podstawowej).
    [Najgorsze skrzyżowania w 3mieście](https://slides.com/maxkaz/najgorsze-skrzyzowania-w-trojmiescie).
+   [Strona internetowa](https://maxkaz.github.io).
 
 
 ### Użyteczne narzędzia
